@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "dc6e3a7a27668d54",
+    "type": "split",
+    "children": [
+      {
+        "id": "c74533a578cbdf8e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08160006d3d44291",
+    "type": "split",
+    "children": [
+      {
+        "id": "9deab86ae8e37f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f026001a7f7e442",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3eabed08c19dc0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e54c9c20b9cd4898",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.0095386505127
+  },
+  "right": {
+    "id": "ca9aa54ad365be3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0946ffeff642275a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aaae3fa72a837ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2ca842a22a68e46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e43348898460de4e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ca4106dc933b46a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0525fc6470903184",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71d11e5943bef2b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad9df7c9e41695dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c74533a578cbdf8e",
+  "lastOpenFiles": [
+    "由此开始.md",
+    "插件/ZK 卡片.md",
+    "插件/Markdown 格式转换器.md",
+    "插件/页面预览.md",
+    "插件/日记.md",
+    "插件/模板.md",
+    "插件/漫游笔记.md",
+    "插件/命令面板.md",
+    "插件/录音机.md",
+    "插件/快速切换.md"
+  ]
+}
