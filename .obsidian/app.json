@@ -5,5 +5,9 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "附件"
 }
