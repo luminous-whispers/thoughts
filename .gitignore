@@ -76,3 +76,5 @@
     Module.symvers
     Mkfile.old
     dkms.conf
+/.exe
+/.dll
