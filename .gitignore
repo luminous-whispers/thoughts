@@ -1,5 +1,5 @@
 #file
-.obsidian/
+/.obsidian/*
 
 #python
 
@@ -76,5 +76,4 @@
     Module.symvers
     Mkfile.old
     dkms.conf
-/.exe
-/.dll
+/ .obsidian/*
